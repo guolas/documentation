@@ -14,7 +14,7 @@ Requirements
 Configuration
 -------------
 
-Create an empty database with the command ``pgsql``:
+Create an empty database with the command ``psql``:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code:: sql
